@@ -144,3 +144,19 @@ footer a:focus {
   color: #21a1f3;
   text-shadow: 0 0 8px #61dafb88;
 }
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #23272a;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.2);
+}
+
+main img {
+  display: block;
+  margin: 0 auto 24px auto;
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px #0004;
+}
